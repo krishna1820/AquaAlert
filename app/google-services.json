@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558409947223",
+    "firebase_url": "https://aquaalert-1820-default-rtdb.firebaseio.com",
+    "project_id": "aquaalert-1820",
+    "storage_bucket": "aquaalert-1820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558409947223:android:3c397929840b3e36192b12",
+        "android_client_info": {
+          "package_name": "com.example.aquaalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558409947223-2kgkhbequi20eupldlrjqunrt6hmjlc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0B4R0qPz0PbeyRvrtu724Sfv05LUBGCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558409947223-2kgkhbequi20eupldlrjqunrt6hmjlc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
