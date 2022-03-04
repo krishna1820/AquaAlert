@@ -17,7 +17,7 @@ Used Ultrasonic Sensors, ESP 8266 Microcontroller and LED on a Water Bottle to d
 <img src =Images/1617919941103.jpg width=250>     <img src =Images/Bottle%20Image.jpg width=250, height=500>
 <br>
   
-## Demonstration of the whole <a href="https://youtu.be/TpeMJ2lhFmg">project</a>
+## Demonstration of the <a href="https://youtu.be/TpeMJ2lhFmg">project</a>
  
 https://user-images.githubusercontent.com/40534063/156723446-e375cf1b-f302-4355-aa40-9ce81130d156.mov
 
