@@ -2,7 +2,7 @@
 
 This project was made with the motive to help people hydrate time to time.<br><br>
 **Bottle**:- Automatic water level tracking | Visual Notification.<br>
-Used Ultrasonic Sensors, ESP 8266 Microcontroller and LED on a Water Bottle to detect water level and relay that information to the database.<br>
+Used Ultrasonic Sensor, ESP 8266 Microcontroller and LED on a Water Bottle to detect water level and relay that information to the database.<br>
 <br>
 <b>Android application</b>:- User's water consumption history | Live water consumption tracking | Set timely notifications.
 
