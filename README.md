@@ -1,6 +1,5 @@
 # AquaAlert
 
-This project was made with the motive to help people hydrate time to time.<br><br>
 **Bottle**:- Automatic water level tracking | Visual Notification.<br>
 Used Ultrasonic Sensor, ESP 8266 Microcontroller and LED on a Water Bottle to detect water level and relay that information to the database.<br>
 <br>
